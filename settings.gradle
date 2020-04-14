@@ -1,0 +1,3 @@
+rootProject.name='Android Phone And Watch App'
+include ':mobile'
+include ':wear'
